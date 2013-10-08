@@ -2,9 +2,14 @@ password-privacy
 ================
 
 NOTE: Have since discovered this which already does exactly what I want:
+
 https://github.com/labnol/passwords
+
 http://www.labnol.org/internet/unique-password-for-every-site/21288/
+
 http://ctrlq.org/passwords/
+
+
 
 
 Client-side hashing of passwords for enhanced password privacy.
